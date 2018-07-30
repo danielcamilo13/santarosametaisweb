@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/models.py" timestamp="1532985929567" />
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/models.py" timestamp="1532990716536">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1532988475841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -37,7 +41,7 @@
         <mark key="'" line="2" column="46" />
         <mark key="[" line="2" column="45" />
       </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/costureirasweb/cadastro/models.py" timestamp="1532987255892" />
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/costureirasweb/cadastro/models.py" timestamp="1532990794049" />
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/run.py" timestamp="1531781945606">
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
@@ -48,35 +52,35 @@
       <jump line="2" column="46" filename="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/admin.py" />
     </jumps>
     <registers>
-      <register name="1" type="8">
-        <text>git@github.com:/danielcamilo13/santarosametaisweb.git</text>
+      <register name="1" type="4">
+        <text encoding="base64">QHB5dGhvbl8yX3VuaWNvZGVfY29tcGF0aWJsZQpjbGFzcyA=</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>git@github.com:/danielcamilo13/santarosametaisweb.git</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QHB5dGhvbl8yX3VuaWNvZGVfY29tcGF0aWJsZQpjbGFzcyA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnY2FkYXN0cm8nCg==</text>
+      <register name="2" type="8">
+        <text>git@github.com:/danielcamilo13/santarosametaisweb.git</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FkYXN0cm9Db25maWcoQXBwQ29uZmlnKToK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAnY2FkYXN0cm8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Y2xhc3MgQ2FkYXN0cm9Db25maWcoQXBwQ29uZmlnKToK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgQ2FkYXN0cm9Db25maWcoQXBwQ29uZmlnKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyID0gQWRtaW5Db25maWcuc2hvd0F0dHJpYnV0ZShzcGVjLCdlbmRQb2ludE5hbWUnKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyID0gQWRtaW5Db25maWcuc2hvd0F0dHJpYnV0ZShzcGVjLCdlbmRQb2ludE5hbWUnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RldmUgdGVyIGJhdGlkbyBub25ldHlwZSBhcXVpJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
