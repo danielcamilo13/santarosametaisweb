@@ -40,10 +40,14 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/admin.py" timestamp="1532976520198">
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/admin.py" timestamp="1533426030076">
         <mark key="'" line="2" column="46" />
-        <mark key="[" line="2" column="45" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/costureirasweb/cadastro/models.py" timestamp="1533425722419" />
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/run.py" timestamp="1531781945606">
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
@@ -58,7 +62,7 @@
         <text encoding="base64">QHB5dGhvbl8yX3VuaWNvZGVfY29tcGF0aWJsZQpjbGFzcyA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QHB5dGhvbl8yX3VuaWNvZGVfY29tcGF0aWJsZQpjbGFzcyA=</text>
+        <text>n</text>
       </register>
       <register name="2" type="8">
         <text>git@github.com:/danielcamilo13/santarosametaisweb.git</text>
@@ -85,7 +89,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
