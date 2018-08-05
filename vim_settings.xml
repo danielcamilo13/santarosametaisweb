@@ -13,17 +13,28 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/prospectos/models.py" timestamp="1533234090364">
-        <mark key="[" line="10" column="4" />
-      </file>
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/prospectos/models.py" timestamp="1533489609970" />
       <file name="/Python Console" timestamp="1532987247989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Daniel/OneDrive/Projetos/_SCRIPTS/Gestao/checklist.py" timestamp="1531425301826">
         <mark key="[" line="281" column="27" />
       </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/santarosaweb/settings.py" timestamp="1532975886316">
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/admin.py" timestamp="1533426030076">
+        <mark key="'" line="2" column="46" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/santarosaweb/settings.py" timestamp="1533489593257">
         <mark key="[" line="32" column="17" />
+      </file>
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/pedidos/models.py" timestamp="1533489672694">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/prospectos/admin.py" timestamp="1532976491299">
         <mark key="[" line="7" column="30" />
@@ -39,13 +50,6 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
-      </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/admin.py" timestamp="1533426030076">
-        <mark key="'" line="2" column="46" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
       </file>
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/costureirasweb/cadastro/models.py" timestamp="1533425722419" />
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/run.py" timestamp="1531781945606">
