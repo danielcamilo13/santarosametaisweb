@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/cadastro/models.py" timestamp="1532993456520">
@@ -30,7 +30,7 @@
       <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/santarosaweb/settings.py" timestamp="1533489593257">
         <mark key="[" line="32" column="17" />
       </file>
-      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/pedidos/models.py" timestamp="1533489672694">
+      <file name="C:/Daniel/OneDrive/Projetos/_WEB/santarosaweb/pedidos/models.py" timestamp="1533614879531">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
